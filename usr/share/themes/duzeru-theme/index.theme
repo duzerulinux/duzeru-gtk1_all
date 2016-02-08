@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DuZeru-tema
+Comment=Tema para o DuZeru Linux by Claudio.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=DuZeru-tema
+MetacityTheme=DuZeru-tema
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
