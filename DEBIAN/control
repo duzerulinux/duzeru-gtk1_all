@@ -1,9 +1,9 @@
 Package: duzeru-theme
-Source:
-Version: 1.0
+Version: 1.0.0
 Section: theme-gtk
 Architecture: all
 Priority: optional
-Maintainer: equipe duzeru (suporte@duzeru.org)
+Maintainer: Claudio A. Silva(claudiosilva@duzeru.org)
 Homepage: http://www.duzeru.org
-Description: DuZeru tema gtk2 e gtk3 baseado no tema vertex. um tema escuro cheio de beleza e elegância.
+Description: DuZeru tema gtk2 e gtk3 baseado no tema vertex.
+ um tema escuro cheio de beleza e elegância.
